@@ -1,0 +1,13 @@
+ul {
+    font-size: 25px;
+    color: red;
+}
+
+li {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
