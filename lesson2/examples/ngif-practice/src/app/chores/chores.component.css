@@ -16,3 +16,7 @@ img {
     display: block;
     margin: auto;
 }
+
+.greenText {
+    color: green;
+}
