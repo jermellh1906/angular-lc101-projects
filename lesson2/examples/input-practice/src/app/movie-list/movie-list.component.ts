@@ -17,5 +17,5 @@ export class MovieListComponent implements OnInit {
       if(!this.movies.includes(newTitle) && (newTitle !== '') ){
          this.movies.push(newTitle);
       }
-   }
+   }   
 }
