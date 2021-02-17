@@ -11,6 +11,8 @@ export class SkillSetComponent implements OnInit {
    alternateColor: string = 'black';
    bulletType: string = 'A';
    changeColor: boolean = true;
+   // Add a new variable representing reverse order
+   reverseOrder: boolean = false;
 
    constructor() { }
 
